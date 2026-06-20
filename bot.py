@@ -20,7 +20,7 @@ dp = Dispatcher()
 # --- BUNKER MA'LUMOTLAR BAZASI (KIBER-VARIANT) ---
 PROFESSIONS = ["Shifokor", "Muhandis", "Olim", "Dasturchi", "Harbiy", "Oshpaz", "Agronom", "Psixolog", "Uchuvchi", "Ustoz"]
 HEALTH_STATUS = ["100% sog'lom", "Yengil allergiya bor", "Ko'zi biroz xira", "Yuragi zaifroq", "Mutloq sog'lom, sportchi", "Surunkali charchoq"]
-YOSH_RO'YXAT = [21, 25, 28, 32, 35, 40, 45, 50, 19, 30]
+YOSH_ROYXAT = [21, 25, 28, 32, 35, 40, 45, 50, 19, 30]
 HOBBIES = ["Kitob o'qish", "Yovvoyi tabiatni o'rganish", "Kamon otish", "Kimyoviy tajribalar", "Bog'dorchilik", "Yugurish", "Mexanika"]
 PHOBIAS = ["Qorong'ulikdan qo'rqadi", "Yolg'izlik fobiya", "Balandlikdan qo'rqadi", "Suvdan qo'rqadi", "Hech qanday fobiyasi yo'q"]
 SPECIAL_ITEMS = ["Tibbiy sumka", "Qurrollar qutisi", "1 yillik urug'lar to'plami", "Filtrlangan suv moslamasi", "Dasturlash kitobi", "Aloqa ratsiyasi"]
