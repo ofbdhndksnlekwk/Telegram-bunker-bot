@@ -93,7 +93,7 @@ async def play_bunker(message: types.Message):
     # Tasodifiy xarakter generatsiyasi
     prof = random.choice(PROFESSIONS)
     health = random.choice(HEALTH_STATUS)
-    age = random.choice(YOSH_RO'YXAT)
+    age = random.choice(YOSH_ROYXAT)
     hobby = random.choice(HOBBIES)
     phobia = random.choice(PHOBIAS)
     item = random.choice(SPECIAL_ITEMS)
@@ -146,3 +146,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+    
